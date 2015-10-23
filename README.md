@@ -8,4 +8,4 @@ The role of genetics dominates almost all of human diseases, even those where th
 
 We reviewed the literature for the known mutations and their effects on the cystinotic phenotype  - i.e. to identify the type of mutation such SNP, missense, deletion or insertion and the known effects on cystine transport function such as complete loss, partial loss  or unaffected. Using this information we were able to gather further data regarding where the mutation occurred in the gene, in particular the exon where it was located and the amino acid chain that it produces. 
 
-[alt tag](https://github.com/kenmcgarry/Edgetics/edgetics1.png)
+[!alt tag](https://raw.github.com/kenmcgarry/Edgetics/edgetics1.png)
