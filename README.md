@@ -7,3 +7,5 @@ We are interested in several types of mutations including single nucleotide poly
 The role of genetics dominates almost all of human diseases, even those where the environment does play a significant factor. Many diseases such as cystic fibrosis can be identified with a single defective gene and as such are described as Mendelian because they follow Mendel's law of inheritance. Other diseases do not follow Mendel's law and are the result of the interaction between several genes and environmental factors. These are classed as complex diseases.
 
 We reviewed the literature for the known mutations and their effects on the cystinotic phenotype  - i.e. to identify the type of mutation such SNP, missense, deletion or insertion and the known effects on cystine transport function such as complete loss, partial loss  or unaffected. Using this information we were able to gather further data regarding where the mutation occurred in the gene, in particular the exon where it was located and the amino acid chain that it produces. 
+
+[alt tag](https://raw.github.com/kenmcgarry/Edgetics/edgetics1.png)
