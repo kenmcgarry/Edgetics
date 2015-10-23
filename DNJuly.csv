@@ -1,0 +1,39 @@
+Proteins,Disease
+CTNS ,Cystinosis
+FGGY ,Cystinosis
+PHTF1,Cystinosis
+PIRT,Cystinosis
+SHPK ,Cystinosis
+TRPA1 ,Cystinosis
+TRPM8,Cystinosis
+TRPV1 ,Cystinosis
+ACO2,Hyperoxaluria
+B3GALNT1,Hyperoxaluria
+B3GALT5 ,Hyperoxaluria
+GNGT1 ,Hyperoxaluria
+HEXA ,Hyperoxaluria
+HEXB ,Hyperoxaluria
+M6PR ,Hyperoxaluria
+NAGA ,Hyperoxaluria
+NANH  ,Hyperoxaluria
+TRGC1,Hyperoxaluria
+AGRN  ,MetabolicSyndrome
+ARSB  ,MetabolicSyndrome
+GPC3  ,MetabolicSyndrome
+GPC4  ,MetabolicSyndrome
+HEXA ,MetabolicSyndrome
+HEXB ,MetabolicSyndrome
+HPSE  ,MetabolicSyndrome
+HSPG2  ,MetabolicSyndrome
+IDS  ,MetabolicSyndrome
+IDUA,MetabolicSyndrome
+SGSH  ,MetabolicSyndrome
+ARSA,SandhoffDisease
+GBA2,SandhoffDisease
+GM2A,SandhoffDisease
+HEXA ,SandhoffDisease
+HEXB ,SandhoffDisease
+SHD,SandhoffDisease
+ARSA,Tay-Sachs
+HEXA ,Tay-Sachs
+HEXB ,Tay-Sachs
